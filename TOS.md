@@ -1,6 +1,6 @@
 Glow Team ("us" or "we" or "our") owns and operates the Glow Discord Bot ("Bot"). The following Terms of Services (“TOS”) govern your use of the Bot, other sites or content owned or controlled by the Bot may have their own terms of use and should be reviewed.
 
-Using GLow is at-will and can be terminated at any time by either us or you for any reason. 
+Using Glow is at-will and can be terminated at any time by either us or you for any reason. 
 By using Glow, you agree to be bound by these TOS. If you do not agree to be so bound, you are not authorized to use the Bot. 
 These TOS are a legal contract between you and Glow and govern your access to it with any services offered through the bot.
 
