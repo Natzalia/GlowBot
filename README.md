@@ -6,7 +6,7 @@ Glow is a multi purpose bot that can serve all your needs in a server, plus it h
 
 # Info & Credits
 - This bot was made by Natalia and licensed by MIT.
-- We are not thinking of uploading publicly the source code of Glow!
+- We are not thinking of uploading publicly the source code of Glow.
 
 
 # How to use Glow
