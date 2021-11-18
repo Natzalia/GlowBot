@@ -32,4 +32,4 @@ The data removal process goes in two ways
 Message content data
 To get server data removed please contact us on discord, note that the data will be reset to the defaults automatically if the bot is still in your server.
 
-All message content will automatically be removed after 3 days.
+All message content will automatically be removed after 3 days
